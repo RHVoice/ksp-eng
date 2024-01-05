@@ -3,5 +3,5 @@ This voice is distributed under the artctic datasets license agreement, as the d
 
 ## Team
 - Unidentified speaker,
-- Dorota krać, BA in English philological studies and MA in translation studies, training of the intermediate voice versions and tester
+- Dorota Krać, BA in philological English studies and MA in translation studies - training of the intermediate voice versions and performing the necessary tests
 - Zvonimir Stanecic - voice training of the final version, package preparation.
